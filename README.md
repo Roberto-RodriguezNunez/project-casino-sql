@@ -61,6 +61,5 @@ casino-db/
 ```
 
 
-git clone https://github.com/maurozelenka/casino-db.git
-cd casino-db
+
 
