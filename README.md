@@ -60,10 +60,7 @@ casino-db/
     └── test_scenarios.sql      # Scripts de validación y QA
 ```
 
-## ⚙️ Configuración del Entorno
 
-### 📥 Clonar el Repositorio
-Primero, clona este repositorio en tu máquina local:
-```bash
 git clone https://github.com/maurozelenka/casino-db.git
 cd casino-db
+
